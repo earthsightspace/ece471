@@ -1,0 +1,4 @@
+earthengine-api==0.1.306
+rasterio==1.2.6
+geopandas==0.10.2
+
